@@ -2,4 +2,4 @@
 
 A simple app that lists github repositories
 
-![img](./public/image.jpg);
+![img](./public/image.jpg)
